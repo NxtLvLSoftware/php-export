@@ -1,0 +1,16 @@
+{
+    "name": "nxtlvlsoftware/php-export",
+    "description": "JS/Node style import/export for PHP.",
+    "type": "library",
+    "license": "Unlicense",
+    "require": {
+        "php": "^8.1"
+    },
+    "autoload": {
+        "files": [
+            "src/import.php"
+        ]
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
