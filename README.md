@@ -48,7 +48,7 @@ The content of this repo is & will always be licensed under the [Unlicense](http
 > binary, for any purpose, commercial or non-commercial, and by any
 > means.
 
-__A full copy of the license is available [here](../LICENSE). The [Laravel framework](https://github.com/laravel/laravel) is licensed under the [MIT](https://opensource.org/licenses/MIT).__
+__A full copy of the license is available [here](../LICENSE).__
 
 #
 
